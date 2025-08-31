@@ -288,7 +288,7 @@ We welcome contributions from the community! Here's how you can help:
 ### **Development Setup**
 ```bash
 # Fork and clone
-git clone https://github.com/yourusername/quantum-supply-chain-optimizer.git
+git clone https://github.com/adiboy-23/quantum-supply-chain-optimizer.git
 cd quantum-supply-chain-optimizer
 
 # Create virtual environment

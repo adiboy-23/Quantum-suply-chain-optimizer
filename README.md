@@ -351,13 +351,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Supply chain experts** for domain knowledge and validation
 - **Research community** for foundational algorithms and methods
 
-## 📞 Contact
-
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-
 ## 🌟 Star This Project
 
 If this project helps you or inspires you, please give it a ⭐ star on GitHub!
